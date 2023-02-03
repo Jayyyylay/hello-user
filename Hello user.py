@@ -1,0 +1,6 @@
+print("Hello")
+name = input("What should I call you today?: ")
+print(f"Okay then, Nice to meet you '{name}'")
+print("I wanna tell you something.")
+fl_name = input("Can you please Type your Full Name: ")
+print(f"I just wanna tell you '{fl_name}' that live your life, based on what know as living")
